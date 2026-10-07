@@ -1,9 +1,30 @@
-# Hi, I'm Shahbaz 👋 
+# Hi, I'm Syed Shahbaz Hussain 👋
 
-My Projects website https://syedshahbazhussain.vercel.app/ :heart_eyes:
+**Senior React Native developer and mobile engineer in Karachi, Pakistan.** I build Android and iOS apps with React Native and Expo, from the first screen through store release and maintenance. I'm open to full-time React Native roles, remote or onsite.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SyedShahbazHussain&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedShahbazHussain&langs_count=5&theme=tokyonight)]()
+🌐 [Portfolio](https://www.syedshahbazhussain.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/syed-shahbaz-hussain-286063111/) · ✉️ [contact@syedshahbazhussain.com](mailto:contact@syedshahbazhussain.com) · 📄 [Resume](https://www.syedshahbazhussain.com/downloads/Syed-Shahbaz-Hussain-Resume.pdf)
 
+## Experience
 
-- :heart: I’m currently working as React Native Deleloper
+- **Impetus Systems · FlowHCM** (March 2020 – present): built the FlowHCM mobile app from scratch and maintain its Android and iOS releases. The work spans employee self-service, location-aware attendance, biometrics, notifications, QR login and localization.
+- **Isekai Technologies** (August 2019 – February 2020): developed mobile interfaces across Android and iOS and integrated REST APIs.
+
+## Selected work
+
+| App | What it does |
+| --- | --- |
+| [FlowHCM](https://www.syedshahbazhussain.com/work/flowhcm/) | Enterprise HR app at Impetus Systems: self-service, attendance, approvals and payroll · Android & iOS |
+| [ColorSnap](https://www.syedshahbazhussain.com/work/colorsnap/) | Color names and codes from images and the camera, saved as palettes · Android |
+| [PDF Tools](https://www.syedshahbazhussain.com/work/pdf-tools/) | Create, merge and organize PDFs in a mobile document workspace · Android |
+| [HydroFast](https://www.syedshahbazhussain.com/work/hydrofast/) | Water tracking and fasting timers with reminders · Android |
+| [ExpiryNotifier](https://www.syedshahbazhussain.com/work/expiry-notifier/) | Track expiry dates, schedule reminders and view reports · Android |
+| [QR Code All In One](https://www.syedshahbazhussain.com/work/qr-code-all-in-one/) | Scan, create and organize QR codes · Android |
+| [Quit Smoking Tracker](https://www.syedshahbazhussain.com/work/quit-smoking-tracker/) | Smoke-free time, cravings, savings and progress · Android |
+| [Quit Sweet](https://www.syedshahbazhussain.com/work/quit-sweet/) | Log sweets, set goals and track patterns · Android |
+| [Tic Tac Toe](https://www.syedshahbazhussain.com/work/tic-tac-toe/) | Offline game with three AI difficulty levels · Android |
+
+Case studies, screenshots and store links: [syedshahbazhussain.com/work](https://www.syedshahbazhussain.com/work/)
+
+## Tools
+
+React Native · Expo · TypeScript · JavaScript · Firebase · SQLite · REST APIs · Redux / Zustand · Astro
