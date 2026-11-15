@@ -6,15 +6,18 @@
 
 ## Experience
 
-- **Impetus Systems · FlowHCM** (March 2020 – present): built the FlowHCM mobile app from scratch and maintain its Android and iOS releases. The work spans employee self-service, location-aware attendance, biometrics, notifications, QR login and localization.
-- **Isekai Technologies** (August 2019 – February 2020): developed mobile interfaces across Android and iOS and integrated REST APIs.
+- **Impetus Systems** (March 2020 to present): built the FlowHCM mobile app from scratch and maintain its Android and iOS releases. I also work on Xorofy's recruitment app and FlowFiz's access-management client. The work spans employee self-service, location-aware attendance, biometrics, notifications, QR login and localization.
+- **Isekai Technologies** (August 2019 to February 2020): developed mobile interfaces across Android and iOS and integrated REST APIs.
 
 ## Selected work
 
 | App | What it does |
 | --- | --- |
 | [FlowHCM](https://www.syedshahbazhussain.com/work/flowhcm/) | Enterprise HR app at Impetus Systems: self-service, attendance, approvals and payroll · Android & iOS |
-| [ColorSnap](https://www.syedshahbazhussain.com/work/colorsnap/) | Color names and codes from images and the camera, saved as palettes · Android |
+| [Xorofy](https://www.syedshahbazhussain.com/work/xorofy/) | Recruitment app at Impetus Systems: candidate applications, recruiter approvals, interviews and offers · Android & iOS |
+| [FlowFiz](https://www.syedshahbazhussain.com/work/flowfiz/) | Access-management client at Impetus Systems: personnel records, face-photo capture, device settings and area transfers · Android |
+| [ColorSnap](https://www.syedshahbazhussain.com/work/colorsnap/) | Color names and codes from images and the camera, saved as palettes · Android & iOS |
+| [MadeMargin](https://www.syedshahbazhussain.com/work/mademargin/) | Pricing and costing for handmade sellers, with a materials library, sales records and local backups · Android |
 | [PDF Tools](https://www.syedshahbazhussain.com/work/pdf-tools/) | Create, merge and organize PDFs in a mobile document workspace · Android |
 | [HydroFast](https://www.syedshahbazhussain.com/work/hydrofast/) | Water tracking and fasting timers with reminders · Android |
 | [ExpiryNotifier](https://www.syedshahbazhussain.com/work/expiry-notifier/) | Track expiry dates, schedule reminders and view reports · Android |
